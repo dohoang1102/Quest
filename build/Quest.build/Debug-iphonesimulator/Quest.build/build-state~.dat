@@ -1,0 +1,207 @@
+TQuest
+v7
+r0
+t325175322.070230
+cCheck dependencies
+cProcessInfoPlistFile /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Info.plist Quest-Info.plist
+cCompileXIB /Users/watanabesatoshi/dev/iOS/Quest/MainWindow.xib
+cProcessPCH /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Quest_Prefix-avsleghpsgzxifamghhobpgcdkaz/Quest_Prefix.pch.gch Quest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/main.o /Users/watanabesatoshi/dev/iOS/Quest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/QuestAppDelegate.o /Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest normal i386
+cGenerateDSYMFile /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app.dSYM /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest
+cTouch /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk
+c000000004B69B45C00000000000000EE
+t1265218652
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004B2B4CC3000000000026EE30
+t1261128899
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004B2B4DC8000000000027E880
+t1261129160
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B2B4DAE0000000000001355
+t1261129134
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004B2B61620000000000000788
+t1261134178
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004B2B62B500000000016721E0
+t1261134517
+s23536096
+
+N/Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.h
+c000000004DB19071000000000000018C
+t1303482481
+s396
+i<UIKit/UIKit.h>
+
+N/Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.m
+c000000004DB18FDA00000000000002F3
+t1303482330
+s755
+i"QuestAppDelegate.h"
+
+N/Users/watanabesatoshi/dev/iOS/Quest/MainWindow.xib
+c000000004DB190950000000000007026
+t1303482517
+s28710
+
+N/Users/watanabesatoshi/dev/iOS/Quest/Quest_Prefix.pch
+c000000004DB18BD900000000000000B3
+t1303481305
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app
+t1303482522
+s204
+
+N/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app.dSYM
+t1303482522
+s102
+
+N/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Info.plist
+t1303482520
+s585
+
+N/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/MainWindow.nib
+t1303482520
+s3502
+
+N/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/PkgInfo
+t1303482520
+s8
+
+N/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest
+t1303482522
+s18492
+
+N/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/Quest.LinkFileList
+c000000004DB1909800000000000000F4
+t1303482520
+s244
+
+N/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/QuestAppDelegate.o
+t1303482522
+s22936
+
+N/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/main.o
+t1303482522
+s5944
+
+N/Users/watanabesatoshi/dev/iOS/Quest/main.m
+c000000004DB18BD90000000000000169
+t1303481305
+s361
+i<UIKit/UIKit.h>
+
+N/var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Quest_Prefix-avsleghpsgzxifamghhobpgcdkaz/Quest_Prefix.pch.gch
+t1303482521
+s13026768
+
+NQuest-Info.plist
+c000000004DB18BD9000000000000038D
+t1303481305
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies325175320#325175320#0(0"0(0#1#0"7947009927035180032#0"0#
+
+CCompileC build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/QuestAppDelegate.o /Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325175321.928534
+e325175322.026575
+r1
+xCompileC
+xbuild/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/QuestAppDelegate.o
+x/Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.m325175321#325175322#0(0"0(0#0#63"/Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.m4300911832#1829"    cd /Users/watanabesatoshi/dev/iOS/Quest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-generated-files.hmap -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-own-target-headers.hmap -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-all-target-headers.hmap -iquote /Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-project-headers.hmap -F/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator -I/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/include -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/DerivedSources/i386 -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/DerivedSources -include /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Quest_Prefix-avsleghpsgzxifamghhobpgcdkaz/Quest_Prefix.pch -c /Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.m -o /Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/QuestAppDelegate.o0#
+
+CCompileC build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/main.o /Users/watanabesatoshi/dev/iOS/Quest/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s325175321.927430
+e325175322.020450
+r1
+xCompileC
+xbuild/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/main.o
+x/Users/watanabesatoshi/dev/iOS/Quest/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@51"Compile /Users/watanabesatoshi/dev/iOS/Quest/main.m325175321#325175322#0(0"0(0#0#43"/Users/watanabesatoshi/dev/iOS/Quest/main.m4300911832#1797"    cd /Users/watanabesatoshi/dev/iOS/Quest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-generated-files.hmap -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-own-target-headers.hmap -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-all-target-headers.hmap -iquote /Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-project-headers.hmap -F/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator -I/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/include -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/DerivedSources/i386 -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/DerivedSources -include /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Quest_Prefix-avsleghpsgzxifamghhobpgcdkaz/Quest_Prefix.pch -c /Users/watanabesatoshi/dev/iOS/Quest/main.m -o /Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/watanabesatoshi/dev/iOS/Quest/MainWindow.xib
+s325175320.652676
+e325175320.999380
+r1
+xCompileXIB
+x/Users/watanabesatoshi/dev/iOS/Quest/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib325175320#325175320#0(0"0(0#0#51"/Users/watanabesatoshi/dev/iOS/Quest/MainWindow.xib4300911832#474"    cd /Users/watanabesatoshi/dev/iOS/Quest    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.3    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/MainWindow.nib /Users/watanabesatoshi/dev/iOS/Quest/MainWindow.xib0#
+
+CGenerateDSYMFile /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app.dSYM /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest
+s325175322.049139
+e325175322.067250
+r1
+xGenerateDSYMFile
+x/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app.dSYM
+x/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/Quest.app.dSYM build/Debug-iphonesimulator/Quest.app/Quest325175322#325175322#0(0"0(0#0#80"/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest4300911832#371"    cd /Users/watanabesatoshi/dev/iOS/Quest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest -o /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app.dSYM0#
+
+CLd /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest normal i386
+s325175322.026673
+e325175322.049032
+r1
+xLd
+x/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest
+xnormal
+xi386
+lSLF07#2@85"Link /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest325175322#325175322#0(0"0(0#0#0"4300911832#844"    cd /Users/watanabesatoshi/dev/iOS/Quest    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -L/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator -F/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator -filelist /Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Objects-normal/i386/Quest.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Quest0#
+
+CProcessInfoPlistFile /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Info.plist Quest-Info.plist
+s325175320.611619
+e325175320.652556
+r1
+xProcessInfoPlistFile
+x/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Info.plist
+xQuest-Info.plist
+lSLF07#2@24"Process Quest-Info.plist325175320#325175320#0(0"0(0#0#53"/Users/watanabesatoshi/dev/iOS/Quest/Quest-Info.plist31525648366108776#467"    cd /Users/watanabesatoshi/dev/iOS/Quest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Quest-Info.plist -genpkginfo /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app/Info.plist0#
+
+CProcessPCH /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Quest_Prefix-avsleghpsgzxifamghhobpgcdkaz/Quest_Prefix.pch.gch Quest_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s325175320.999595
+e325175321.927327
+r1
+xProcessPCH
+x/var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Quest_Prefix-avsleghpsgzxifamghhobpgcdkaz/Quest_Prefix.pch.gch
+xQuest_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile Quest_Prefix.pch325175321#325175321#0(0"0(0#0#53"/Users/watanabesatoshi/dev/iOS/Quest/Quest_Prefix.pch4300911832#1693"    cd /Users/watanabesatoshi/dev/iOS/Quest    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.3.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-generated-files.hmap -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-own-target-headers.hmap -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-all-target-headers.hmap -iquote /Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/Quest-project-headers.hmap -F/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator -I/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/include -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/DerivedSources/i386 -I/Users/watanabesatoshi/dev/iOS/Quest/build/Quest.build/Debug-iphonesimulator/Quest.build/DerivedSources -c /Users/watanabesatoshi/dev/iOS/Quest/Quest_Prefix.pch -o /var/folders/7Z/7ZpP+4+lFf0MPPy2EBGiPU+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Quest_Prefix-avsleghpsgzxifamghhobpgcdkaz/Quest_Prefix.pch.gch0#
+
+CTouch /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app
+s325175322.067345
+e325175322.070176
+r1
+xTouch
+x/Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app
+lSLF07#2@80"Touch /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app325175322#325175322#0(0"0(0#0#0"4300911832#272"    cd /Users/watanabesatoshi/dev/iOS/Quest    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/watanabesatoshi/dev/iOS/Quest/build/Debug-iphonesimulator/Quest.app0#
+
