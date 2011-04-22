@@ -2,8 +2,6 @@
 //  QuestAppDelegate.h
 //  Quest
 //
-//  Created by 渡辺 悟史 on 11/04/22.
-//  Copyright __MyCompanyName__ 2011. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
@@ -11,10 +9,10 @@
 @interface QuestAppDelegate : NSObject <UIApplicationDelegate> {
 	UIWindow *window;
 	IBOutlet UIWebView		*webView;
-	IBOutlet UIActivityIndicatorView *activeView;
 	IBOutlet UITextField	*uriField;
 	IBOutlet UIBarButtonItem *backButton;
 	IBOutlet UIBarButtonItem *fwdButton;
+	IBOutlet UIProgressView  *progressView;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;

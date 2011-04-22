@@ -1,0 +1,2 @@
+/Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.m: In function '-[QuestAppDelegate updateWebBrowser]':
+/Users/watanabesatoshi/dev/iOS/Quest/Classes/QuestAppDelegate.m:42: warning: unused variable 'loading'

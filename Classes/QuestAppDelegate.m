@@ -2,8 +2,6 @@
 //  QuestAppDelegate.m
 //  Quest
 //
-//  Created by 渡辺 悟史 on 11/04/22.
-//  Copyright __MyCompanyName__ 2011. All rights reserved.
 //
 
 #import "QuestAppDelegate.h"
@@ -42,13 +40,6 @@ navigationType: (UIWebViewNavigationType) navType
 
 - (void) updateWebBrowser {
 	BOOL loading = webView.loading;
-	BOOL animating = [activeView isAnimating];
-	
-	if ((loading == YES) && (animating == NO)) {
-		[activeView startAnimating];
-	} else if ((loading == NO) && (animating == YES)) {
-		[activeView stopAnimating];
-	}
 	
 	NSURL *url = [webView.request URL];
 	NSString *urlStr = [url absoluteString];
@@ -61,11 +52,13 @@ navigationType: (UIWebViewNavigationType) navType
 - (void) webViewDidStartLoad : (UIWebView *)view
 {
 	[self updateWebBrowser];
+	progressView.progress = 0;
 }
 
 - (void) webViewDidFinishLoad: (UIWebView *)view
 {
 	[self updateWebBrowser];
+	progressView.progress = 100;
 }
 
 - (IBAction)loadUrl : (UITextField *) sender {
