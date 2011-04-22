@@ -1,5 +1,21 @@
 // !$*UTF8*$!
 {
+	1D3623240D0F684500981E51 /* QuestAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {691, 407}}";
+			sepNavSelRange = "{317, 0}";
+			sepNavVisRange = "{0, 546}";
+			sepNavWindowFrame = "{{38, 194}, {750, 558}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* QuestAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 1079}}";
+			sepNavSelRange = "{1479, 0}";
+			sepNavVisRange = "{1236, 376}";
+			sepNavWindowFrame = "{{15, 215}, {750, 558}}";
+		};
+	};
 	1D6058900D05DD3D006BFB54 /* Quest */ = {
 		activeExec = 0;
 		executables = (
@@ -40,6 +56,21 @@
 			PBXPerProjectTemplateStateSaveDate = 325174105;
 			PBXWorkspaceStateSaveDate = 325174105;
 		};
+		perUserProjectItems = {
+			9E663A1C1361D892002CE748 /* PBXBookmark */ = 9E663A1C1361D892002CE748 /* PBXBookmark */;
+			9E663A1F1361DA8A002CE748 /* XCBuildMessageTextBookmark */ = 9E663A1F1361DA8A002CE748 /* XCBuildMessageTextBookmark */;
+			9E663A201361DA8A002CE748 /* PBXTextBookmark */ = 9E663A201361DA8A002CE748 /* PBXTextBookmark */;
+			9E663A2B1361DAB0002CE748 /* XCBuildMessageTextBookmark */ = 9E663A2B1361DAB0002CE748 /* XCBuildMessageTextBookmark */;
+			9E663A2C1361DAB0002CE748 /* PBXTextBookmark */ = 9E663A2C1361DAB0002CE748 /* PBXTextBookmark */;
+			9E663A2F1361DAC7002CE748 /* PBXTextBookmark */ = 9E663A2F1361DAC7002CE748 /* PBXTextBookmark */;
+			9E663A301361DAC7002CE748 /* XCBuildMessageTextBookmark */ = 9E663A301361DAC7002CE748 /* XCBuildMessageTextBookmark */;
+			9E663A311361DAC7002CE748 /* PBXTextBookmark */ = 9E663A311361DAC7002CE748 /* PBXTextBookmark */;
+			9E663A341361DAC7002CE748 /* PBXTextBookmark */ = 9E663A341361DAC7002CE748 /* PBXTextBookmark */;
+			9E663A371361DB5E002CE748 /* PBXTextBookmark */ = 9E663A371361DB5E002CE748 /* PBXTextBookmark */;
+			9E663A381361DB5E002CE748 /* PBXTextBookmark */ = 9E663A381361DB5E002CE748 /* PBXTextBookmark */;
+			9E663A3F1361DCD7002CE748 /* PBXTextBookmark */ = 9E663A3F1361DCD7002CE748 /* PBXTextBookmark */;
+			9E663A401361DCD7002CE748 /* PBXTextBookmark */ = 9E663A401361DCD7002CE748 /* PBXTextBookmark */;
+		};
 		sourceControlManager = 9E663A0A1361C36A002CE748 /* Source Control */;
 		userBuildSettings = {
 		};
@@ -60,6 +91,7 @@
 		dataTipSortType = 0;
 		debuggerPlugin = GDBDebugging;
 		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
 		enableDebugStr = 1;
 		environmentEntries = (
 		);
@@ -84,5 +116,126 @@
 	9E663A0B1361C36A002CE748 /* Code sense */ = {
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
+	};
+	9E663A1C1361D892002CE748 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QuestAppDelegate.h */;
+	};
+	9E663A1F1361DA8A002CE748 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ';' before 'enabled'";
+		fRef = 1D3623250D0F684500981E51 /* QuestAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 58;
+		rType = 1;
+	};
+	9E663A201361DA8A002CE748 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QuestAppDelegate.m */;
+		name = "QuestAppDelegate.m: 57";
+		rLen = 0;
+		rLoc = 1322;
+		rType = 0;
+		vrLen = 278;
+		vrLoc = 1130;
+	};
+	9E663A2B1361DAB0002CE748 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ';' before 'enabled'";
+		fRef = 1D3623250D0F684500981E51 /* QuestAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 58;
+		rType = 1;
+	};
+	9E663A2C1361DAB0002CE748 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QuestAppDelegate.m */;
+		name = "QuestAppDelegate.m: 57";
+		rLen = 0;
+		rLoc = 1322;
+		rType = 0;
+		vrLen = 278;
+		vrLoc = 1130;
+	};
+	9E663A2F1361DAC7002CE748 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QuestAppDelegate.h */;
+		name = "QuestAppDelegate.h: 22";
+		rLen = 0;
+		rLoc = 538;
+		rType = 0;
+		vrLen = 413;
+		vrLoc = 132;
+	};
+	9E663A301361DAC7002CE748 /* XCBuildMessageTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "Expected ';' before 'enabled'";
+		fRef = 1D3623250D0F684500981E51 /* QuestAppDelegate.m */;
+		fallbackIsa = XCBuildMessageTextBookmark;
+		rLen = 1;
+		rLoc = 58;
+		rType = 1;
+	};
+	9E663A311361DAC7002CE748 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QuestAppDelegate.m */;
+		name = "QuestAppDelegate.m: 61";
+		rLen = 0;
+		rLoc = 1401;
+		rType = 0;
+		vrLen = 430;
+		vrLoc = 888;
+	};
+	9E663A341361DAC7002CE748 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QuestAppDelegate.h */;
+		name = "QuestAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 0;
+	};
+	9E663A371361DB5E002CE748 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QuestAppDelegate.m */;
+		name = "QuestAppDelegate.m: 68";
+		rLen = 0;
+		rLoc = 1480;
+		rType = 0;
+		vrLen = 431;
+		vrLoc = 1279;
+	};
+	9E663A381361DB5E002CE748 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QuestAppDelegate.h */;
+		name = "QuestAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 0;
+	};
+	9E663A3F1361DCD7002CE748 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* QuestAppDelegate.m */;
+		name = "QuestAppDelegate.m: 68";
+		rLen = 0;
+		rLoc = 1479;
+		rType = 0;
+		vrLen = 376;
+		vrLoc = 1236;
+	};
+	9E663A401361DCD7002CE748 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* QuestAppDelegate.h */;
+		name = "QuestAppDelegate.h: 14";
+		rLen = 0;
+		rLoc = 317;
+		rType = 0;
+		vrLen = 546;
+		vrLoc = 0;
 	};
 }

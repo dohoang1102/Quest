@@ -33,6 +33,41 @@
     [super dealloc];
 }
 
+- (BOOL) webView: (UIWebView *) view
+shouldStartLoadWithRequest: (NSURLRequest *)req
+navigationType: (UIWebViewNavigationType) navType
+{
+	return (YES);
+}
+
+- (void) updateWebBrowser {
+	BOOL loading = webView.loading;
+	BOOL animating = [activeView isAnimating];
+	
+	if ((loading == YES) && (animating == NO)) {
+		[activeView startAnimating];
+	} else if ((loading == NO) && (animating == YES)) {
+		[activeView stopAnimating];
+	}
+	
+	NSURL *url = [webView.request URL];
+	NSString *urlStr = [url absoluteString];
+	uriField.text = urlStr;
+	
+	backButton.enabled = webView.canGoBack;
+	fwdButton.enabled = webView.canGoForward;
+}
+
+- (void) webViewDidStartLoad : (UIWebView *)view
+{
+	[self updateWebBrowser];
+}
+
+- (void) webViewDidFinishLoad: (UIWebView *)view
+{
+	[self updateWebBrowser];
+}
+
 - (IBAction)loadUrl : (UITextField *) sender {
 	NSString *urlStr = [sender text];
 	NSURL *url = [NSURL URLWithString: urlStr];

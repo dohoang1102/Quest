@@ -10,7 +10,11 @@
 
 @interface QuestAppDelegate : NSObject <UIApplicationDelegate> {
 	UIWindow *window;
-	IBOutlet UIWebView *webView;
+	IBOutlet UIWebView		*webView;
+	IBOutlet UIActivityIndicatorView *activeView;
+	IBOutlet UITextField	*uriField;
+	IBOutlet UIBarButtonItem *backButton;
+	IBOutlet UIBarButtonItem *fwdButton;
 }
 
 @property (nonatomic, retain) IBOutlet UIWindow *window;
